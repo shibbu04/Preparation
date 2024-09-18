@@ -1,0 +1,93 @@
+Easy Array Questions:
+
+1. Find the Largest and Smallest Element in an Array:
+Problem: Write a program to find the largest and smallest element in an unsorted array.
+
+
+2. Reverse an Array:
+Problem: Reverse an array without using any extra space.
+
+
+3. Find the Second Largest Element in an Array:
+Problem: Write a Java program to find the second largest number in an array.
+
+
+4. Remove Duplicates from a Sorted Array:
+Problem: Given a sorted array, remove duplicates in-place, returning the new length of the array.
+
+
+5. Find Missing Number in an Array:
+Problem: Given an array of size n and containing numbers between 1 and 𝑛+1, with one number missing, find the missing number
+
+6. Check if an Array is Sorted:
+Problem: Write a program to check if the array is sorted in ascending order.
+
+
+7. Rotate Array by k Elements:
+Problem: Rotate an array of n elements to the right by k steps
+
+8. Move Zeroes to the End:
+Problem: Move all zeros to the end of an array without changing the order of non-zero elements.
+
+
+------------------------------------------------------------------------------------------------------------------
+Medium Array Questions:
+1. Find the Majority Element:
+Problem: Find the element that appears more than n/2 times in the array.
+
+
+2. Find the Maximum Sum of a Subarray (Kadane’s Algorithm):
+Problem: Write a program to find the largest sum contiguous subarray.
+
+
+3. Merge Two Sorted Arrays Without Extra Space:
+Problem: Given two sorted arrays, merge them without using extra space.
+
+
+4. Find All Pairs with a Given Sum:
+Problem: Find all pairs of integers in the array that sum up to a given target.
+
+
+5. Find the Longest Consecutive Subsequence:
+Problem: Find the length of the longest consecutive elements sequence in an unsorted array.
+
+
+6. Sort an Array of 0s, 1s, and 2s (Dutch National Flag Problem):
+Problem: Sort an array containing only 0s, 1s, and 2s without using extra space.
+
+
+7. Find Common Elements in Three Sorted Arrays:
+Problem: Given three sorted arrays, find all the common elements.
+
+
+8. Trapping Rain Water:
+Problem: Given an array of non-negative integers representing the height of blocks, compute how much water can be trapped after raining.
+
+
+------------------------------------------------------------------------------------------------------------------
+Accenture Placement Specific Array Questions (Previously Asked):
+
+1. Maximum Product Subarray:
+Problem: Find the maximum product that can be obtained from a subarray of a given array.
+Find the Missing Number in a Range:
+Problem: Given an array of size n with elements in the range of 1 to n, with one missing element, find that missing element.
+
+
+2. Kth Largest Element in an Array:
+Problem: Find the Kth largest element in an unsorted array.
+
+
+3. Find Minimum and Maximum in an Array Using Minimum Comparisons:
+Problem: Write an efficient program to find the minimum and maximum in an array with the minimum number of comparisons.
+
+
+4. Find All Subarrays with a Given Sum:
+Problem: Given an array of integers and a sum, find all the subarrays that sum to the given sum.
+
+
+5. Stock Buy and Sell:
+Problem: Given the prices of stocks for n days, maximize the profit by choosing the best days to buy and sell.
+
+
+6. Rearrange Array Elements (Positive and Negative):
+Problem: Rearrange an array so that positive and negative numbers are placed alternatively, without using extra space
